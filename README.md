@@ -64,8 +64,7 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 
 # Execution
 Your shell should work like this in interactive mode:
-
-<sub>
+`````
 $ ./console.py
 (hbnb) help
 
@@ -77,4 +76,4 @@ EOF  help  quit
 (hbnb) 
 (hbnb) quit
 $
-</sub>
+`````
