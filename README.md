@@ -102,3 +102,8 @@ $
 ``````
 All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
 
+![image](https://user-images.githubusercontent.com/106745705/203018313-b43c9418-4c4a-4af8-90f7-62d621f8eac8.png)
+
+# Authors
+- Chineze Ogugua   
+- Tijani Adebowale
